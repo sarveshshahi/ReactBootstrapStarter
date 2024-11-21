@@ -29,11 +29,13 @@ npm create vite@latest my-vite-app
 cd my-vite-app
 
 ```
-### 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies ans Bootstrap
 ---
 Install the required packages:
 ```bash
 npm install
+npm install bootstrap @popperjs/core
+
 ```
 
 ### 4️⃣ Import Bootstrap Styles and Scripts
